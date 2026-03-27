@@ -77,7 +77,7 @@ pip install pandas numpy matplotlib
 
 ### 2. Update File Path
 ```python
-df = pd.read_csv("your_file_path/retail_store.csv")
+df = pd.read_csv("C:\Users\Ganesh\Downloads\retail_store.csv")
 ```
 
 ### 3. Run the Script
